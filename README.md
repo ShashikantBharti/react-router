@@ -32,9 +32,11 @@ npm install
 ## Usage
 
 To run the project, use the following command:
-`sh
-    npm run dev
-    `
+
+```sh
+npm run dev
+```
+
 Open http://localhost:5173 to view it in the browser.
 
 ## Project Structure
