@@ -63,3 +63,7 @@ Open http://localhost:5173 to view it in the browser.
     ├── package.json
     └── README.md
 ```
+
+## License
+
+Feel free to customize the `README.md` file to better suit your project specifics. This template covers the basics, including installation, usage, project structure, components, routing, and licensing.
